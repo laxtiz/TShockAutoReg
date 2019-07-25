@@ -1,0 +1,8 @@
+{
+    "SuccessRegistered": "首次登陆，已为您自动注册账号.",
+    "PasswordTip": "您的初始密码为 {0}",
+    "LogFormat": "玩家 {0} 已自动注册，初始密码为 {1} .",
+    "NonCharsWarning": "随机密码字符至少要包含数字/小写字母/大写字母 其中一项.",
+    "PasswordLengthTooShortWarning": "随机密码长度不得小于TShock 指定最短密码长度.",
+    "UnavailableCharacterWarning": "角色名称只能使用字母或数字."
+}

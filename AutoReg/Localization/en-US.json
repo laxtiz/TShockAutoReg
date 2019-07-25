@@ -1,0 +1,8 @@
+{
+    "SuccessRegistered": "Log in for the first time and have automatically registered for you.",
+    "PasswordTip": "Your initial password is {0}",
+    "LogFormat": "User {0} is automatically registered, the password is {1}.",
+    "NonCharsWarning": "Random password characters must contain at least one of the Digits, LowerLetters, UpperLetters.",
+    "PasswordLengthTooShortWarning": "The random password length must not be less than TShock specified minimum password length.",
+    "UnavailableCharacterWarning": "Role names can only use letters and digits."
+}
